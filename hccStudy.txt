@@ -1,0 +1,13 @@
+patient	dateOfEntry	timeAtEntry	time	status
+1	01.01.2001	0	910	death
+2	01.01.2001	0	752	censored
+3	26.03.2001	84	1090	death
+4	26.04.2001	115	451	censored
+5	23.06.2001	173	1096	censored
+6	09.07.2001	189	307	censored
+7	22.07.2001	202	816	death
+8	02.08.2001	213	762	censored
+9	01.09.2001	243	1097	censored
+10	07.10.2001	279	431	death
+11	14.12.2001	347	644	censored
+12	26.12.2001	359	1000	death
